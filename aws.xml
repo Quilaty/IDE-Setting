@@ -3,4 +3,16 @@
     <option name="profilesNotification" value="Never" />
     <option name="promptedForTelemetry" value="true" />
   </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="C:\Users\jiajun.chou\AppData\Local\Programs\Python\Python37\Scripts\sam.exe" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1605766733405" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
 </application>
